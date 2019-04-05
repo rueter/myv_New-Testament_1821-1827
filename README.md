@@ -6,7 +6,6 @@ This is a combination of the first Erzya-language translation of the Gospel in 1
 If you use this data set in an academic publication, I would be ever so grateful if you cited it as follows:
 
 Olga Erina & Jack Rueter & Rimma Averyanova. (2019, April 5). Erzya New Testament 1821--1827 (Version v0.5)
-.. image:: https://zenodo.org/badge/179615949.svg
-   :target: https://zenodo.org/badge/latestdoi/179615949
+https://zenodo.org/badge/179615949.svg
    
 [![DOI](https://zenodo.org/badge/179615949.svg)](https://zenodo.org/badge/latestdoi/179615949)
