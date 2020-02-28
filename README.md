@@ -15,7 +15,6 @@ There is a direct relation to the grammar project Erzya-grammar-Gabelentz-1838-3
 If you use this data set in an academic publication, we would be ever so grateful if you cited it as follows:
 
 Olga Erina & Jack Rueter & Rimma Averyanova. (2019, April 5). Erzya New Testament 1821--1827 (Version v0.5)
-https://zenodo.org/badge/179615949.svg
    
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2629443.svg)](https://doi.org/10.5281/zenodo.2629443)
 
