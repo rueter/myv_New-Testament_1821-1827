@@ -7,6 +7,8 @@ Documents in this directory come from Erzya-language Bible books published 1821â
 
 This is the (Erzya-1821) material also available in the [https://korp.csc.fi/test-pabivus/] parallel corpora of Biblical verses for Uralic languages.
 
+There is a direct relation to the grammar project Erzya-grammar-Gabelentz-1838-39.
+
 
 # Cite
 
