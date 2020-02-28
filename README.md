@@ -12,9 +12,22 @@ There is a direct relation to the grammar project Erzya-grammar-Gabelentz-1838-3
 
 # Cite
 
-If you use this data set in an academic publication, I would be ever so grateful if you cited it as follows:
+If you use this data set in an academic publication, we would be ever so grateful if you cited it as follows:
 
 Olga Erina & Jack Rueter & Rimma Averyanova. (2019, April 5). Erzya New Testament 1821--1827 (Version v0.5)
 https://zenodo.org/badge/179615949.svg
    
-[![DOI](https://zenodo.org/badge/179615949.svg)](https://zenodo.org/badge/latestdoi/179615949)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2629443.svg)](https://doi.org/10.5281/zenodo.2629443)
+
+
+@software{rueter_2019_2629443,
+  author       = {rueter},
+  title        = {{rueter/myv\_New-Testament\_1821-1827: Erzya New 
+                   Testament 1821--1827}},
+  month        = apr,
+  year         = 2019,
+  publisher    = {Zenodo},
+  version      = {v0.5},
+  doi          = {10.5281/zenodo.2629443},
+  url          = {https://doi.org/10.5281/zenodo.2629443}
+}
